@@ -1,0 +1,46 @@
+
+  
+  /* Font: Poppins
+  Dark Grey: #333 
+  Light Grey: #555
+  Aqua: #39feee */
+
+
+
+body {
+  background-color: #333;
+  font-family: Poppins, serif;
+  color:white;
+}
+
+section {
+  background-color:#555;
+  padding:20px;
+  margin-bottom:20px;
+}
+
+.block-title, .inline-title, .inline-block-title  {
+  color: #39feee;
+  font-size:24px;
+}
+
+.block-element {
+  color:black;
+  background-color: #39feee;
+  display:block;
+  margin: 16px 0px;
+}
+
+.inline-element {
+  color:black;
+  background-color: #39feee;
+  display:inline;
+}
+
+.inline-block-element {
+  color:black;
+  background-color: #39feee;
+  display:inline-block;
+  height:75px;
+}
+
